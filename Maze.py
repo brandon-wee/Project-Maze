@@ -1,6 +1,6 @@
 from Node import Node
 
-
+# hello
 class Maze:
 
     def __init__(self, im):
@@ -83,3 +83,4 @@ class Maze:
                         self.create_node(now)
 
         self.get_end()
+
