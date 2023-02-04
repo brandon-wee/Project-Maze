@@ -1,6 +1,8 @@
 from Node import Node
 
 # hello
+
+# bruh
 class Maze:
 
     def __init__(self, im):
